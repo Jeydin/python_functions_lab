@@ -1,4 +1,5 @@
 # Circle formulas
+# Library of Functions for Circles
 
 # Area A = pi * r ** 2
 # Circumference C = 2 * pi * r
@@ -12,5 +13,5 @@ def area(radius):
 
 def circumference(radius):
 	pi = math.pi
-	c = 2 * pi * r
+	c = 2 * pi * radius
 	return c
