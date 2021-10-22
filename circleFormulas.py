@@ -6,10 +6,12 @@
 
 import math
 
+
 def area(radius):
-	pi = math.pi 
-	a = pi * radius ** 2
+	pi = math.pi
+	a = pi * radius**2
 	return a
+
 
 def circumference(radius):
 	pi = math.pi
